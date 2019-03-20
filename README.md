@@ -11,7 +11,7 @@ pypi in a near future.
 
 ## Dependencies ##
 
-External commands used in this library (and which should be accessible from $PATH):
+Are used in this module and should be accessible from $PATH:
 
 - sort, cat (bash)
 - bedtools
